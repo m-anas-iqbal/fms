@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174141884078",
+    "firebase_url": "https://fms-eproject-default-rtdb.firebaseio.com",
+    "project_id": "fms-eproject",
+    "storage_bucket": "fms-eproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174141884078:android:88120c8896165472bc4f3f",
+        "android_client_info": {
+          "package_name": "com.example.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174141884078-qgs1cj4c8ev1d9f557p9i5su2nmtcmjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBbl6wiwpuTqr0Z6Dpw4S2Mfmpdeia6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174141884078-qgs1cj4c8ev1d9f557p9i5su2nmtcmjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
